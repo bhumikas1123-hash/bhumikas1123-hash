@@ -1,72 +1,100 @@
-# Hi, I'm Bhumika Singhal
+# 👋 Hi, I'm Bhumika Singhal
 
-Aspiring Data Analyst | Python Enthusiast | Business Insights Explorer | Lifelong Learner
+### Data Analytics Enthusiast | Power BI & Python Explorer | Turning Data into Business Insights
 
-Welcome to my GitHub! I'm passionate about turning raw data into meaningful insights through analytics, visualization, and problem-solving. I enjoy working on real-world datasets, building projects, and continuously improving my technical skills.
+Welcome to my GitHub!
+I enjoy transforming raw datasets into meaningful insights through **data analytics, visualization, and business intelligence**. From cleaning messy data to building interactive dashboards, I love exploring how data can help businesses make smarter decisions and uncover meaningful trends.
 
----
-
-## About Me
-
-- Based in India  
-- Interested in Data Analytics, Business Intelligence, and Machine Learning  
-- Skilled in Python for data analysis and automation  
-- Currently learning advanced analytics, SQL, Tableau, and Power BI  
-- Goal: Build impactful projects that solve business problems using data  
+My projects mainly focus on **Python-based data analysis, exploratory data analysis (EDA), and Power BI dashboards** using real-world datasets. I’m continuously learning, building, and improving my analytical and visualization skills through hands-on projects.
 
 ---
 
-## Tech Stack
+# 🚀 About Me
 
-**Languages & Tools:**  
-- Python  
-- SQL  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Excel  
-- Tableau  
-- Power BI  
-- Jupyter Notebook  
-- Git & GitHub  
+* 📍 Based in India
+* 📊 Interested in **Data Analytics, Business Intelligence, and Data Visualization**
+* 🐍 Skilled in **Python** for data analysis and automation
+* 📈 Passionate about creating **interactive Power BI dashboards** and visual reports
+* 📚 Currently learning advanced analytics, SQL, and Power BI
+* 🎯 Goal: Build impactful, data-driven projects that solve real business problems
 
 ---
 
-## Projects
+# 🛠️ Tech Stack
 
-I have worked on multiple projects involving data cleaning, exploratory data analysis, visualization, dashboard creation, and business insights using real-world datasets.
+### Languages & Analytics Tools
 
-Visit my repositories to explore my work and project details.
+* Python
+* SQL
+* Excel
 
----
+### Python Libraries
 
-## What I’m Working On
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
 
-- Building more end-to-end analytics projects  
-- Improving SQL, Tableau, and Power BI skills  
-- Learning machine learning fundamentals  
-- Strengthening portfolio for internships & job opportunities  
+### Visualization & BI
 
----
+* Power BI
 
-## Soft Skills
+### Development Tools
 
-- Analytical Thinking  
-- Problem Solving  
-- Communication  
-- Attention to Detail  
-- Continuous Learning  
-
----
-
-## Connect With Me
-
-- LinkedIn: www.linkedin.com/in/bhumika-singhal-b8a41a310  
-- Email: bhumikas1123@gmail.com
+* Jupyter Notebook
+* Google Colab
+* Git & GitHub
 
 ---
 
-## Fun Fact
+# 📂 Featured Work
 
-I believe every dataset has a story - the job is to uncover it.
+My projects focus on:
+
+* 📌 Exploratory Data Analysis (EDA)
+* 📌 Data Cleaning & Preprocessing
+* 📌 Interactive Power BI Dashboards
+* 📌 Data Visualization & Storytelling
+* 📌 Business Insight Generation
+* 📌 Real-world Dataset Analysis
+
+Some datasets I’ve worked on include:
+🍿 Netflix • 🍔 Zomato • 🏡 MagicBricks • 🛒 BigBasket and more.
+
+Each project is designed to combine analytics with storytelling — turning raw numbers into clear, actionable insights.
+
+---
+
+# 📈 What I’m Currently Working On
+
+* Building more end-to-end analytics projects
+* Improving Power BI dashboard design and DAX skills
+* Strengthening SQL for analytics and reporting
+* Expanding my portfolio for internships and analytics opportunities
+
+---
+
+# 🌟 Soft Skills
+
+* Analytical Thinking
+* Problem Solving
+* Attention to Detail
+* Communication
+* Continuous Learning
+
+---
+
+# 🤝 Connect With Me
+
+* 💼 LinkedIn:
+  www.linkedin.com/in/bhumika-singhal-b8a41a310
+
+
+* 📧 Email:
+  bhumikas1123@gmail.com
+
+---
+
+# ✨ Fun Fact
+
+Every data has a story to tell - the job is to uncover it.
