@@ -131,22 +131,3 @@ EDA projects on content trends, restaurant patterns, and product category analyt
 📬 **Let's connect!**
 [LinkedIn](https://www.linkedin.com/in/bhumika-singhal-b8a41a310) · [bhumikas1123@gmail.com](mailto:bhumikas1123@gmail.com)
 
-</div>
-##📍 About Me
-
-- 📍 Based in India
-- 📊 Focused on **Data Analytics, Business Intelligence & Data Visualization**
-- 🐍 Skilled in **Python** for data analysis, feature engineering, and automation
-- 🤝 Open to **internship and collaborative project opportunities**
-
-`Analytical Thinking` · `Problem Solving` · `Attention to Detail` · `Communication` · `Continuous Learning`
-
----
-
-<div align="center">
-
-*"Business usefulness over technical complexity — translating raw data into commercially meaningful intelligence."*
-
-**📬 Reach me:** [LinkedIn](https://www.linkedin.com/in/bhumika-singhal-b8a41a310) · [bhumikas1123@gmail.com](mailto:bhumikas1123@gmail.com)
-
-</div>
