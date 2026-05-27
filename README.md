@@ -2,7 +2,7 @@
 
 # Hi, I'm Bhumika Singhal 👋
 
-**Data Analytics · Business Intelligence · Python · Power BI**
+**Data Analytics · Business Intelligence · Python · SQL · Power BI**
 
 *I love turning messy, raw datasets into clear stories that help businesses make smarter decisions.*
 *Whether it's cleaning data at 2am or building a dashboard that finally makes things click — that's my thing.*
