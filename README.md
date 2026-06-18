@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,50:378ADD,100:1D9E75&height=200&section=header&text=Bhumika%20Singhal&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20BI%20%7C%20Python%20%7C%20SQL&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=378ADD&center=true&vCenter=true&multiline=false&width=650&lines=Turning+messy+raw+data+into+clear+stories+%F0%9F%93%8A;Raw+CSV+%E2%86%92+Feature+Eng+%E2%86%92+SQL+%E2%86%92+Dashboard+%E2%9C%85;3%2C900%2B+records+%7C+50+US+states+%7C+1+IIT+project+%F0%9F%8E%93;Business+usefulness+over+technical+complexity+%F0%9F%92%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=378ADD&center=true&vCenter=true&multiline=false&width=700&lines=Aspiring+Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Data+Cleaning%2C+EDA%2C+Visualization+%26+Reporting;Transforming+Raw+Data+into+Meaningful+Insights;Business-Focused+Analytics+and+Problem+Solving;Continuous+Learner+in+Data+and+Technology" alt="Typing SVG" />
 
 <br/>
 
@@ -131,7 +131,7 @@ EDA projects on content trends, restaurant patterns, and product category analyt
 
 <div align="center">
 
-*"Business usefulness over technical complexity — turning raw data into insights that actually matter."*
+*"Every data has a story to tell - the job is to uncover it. "*
 
 <br>
 
