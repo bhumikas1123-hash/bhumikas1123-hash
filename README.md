@@ -1,15 +1,22 @@
 <div align="center">
 
-# Hi, I'm Bhumika Singhal 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,50:378ADD,100:1D9E75&height=200&section=header&text=Bhumika%20Singhal&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20BI%20%7C%20Python%20%7C%20SQL&descAlignY=58&descSize=18&animation=fadeIn" />
 
-**Data Analytics · Business Intelligence · Python · SQL · Power BI**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=378ADD&center=true&vCenter=true&multiline=false&width=650&lines=Turning+messy+raw+data+into+clear+stories+%F0%9F%93%8A;Raw+CSV+%E2%86%92+Feature+Eng+%E2%86%92+SQL+%E2%86%92+Dashboard+%E2%9C%85;3%2C900%2B+records+%7C+50+US+states+%7C+1+IIT+project+%F0%9F%8E%93;Business+usefulness+over+technical+complexity+%F0%9F%92%A1" alt="Typing SVG" />
+
+<br/>
 
 *I love turning messy, raw datasets into clear stories that help businesses make smarter decisions.*
 *Whether it's cleaning data at 2am or building a dashboard that finally makes things click — that's my thing.*
+<br/>
 
+<p align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhumika-singhal-b8a41a310)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bhumikas1123@gmail.com)
 [![Location](https://img.shields.io/badge/India-based-lightgrey?style=flat-square)](#)
+
+</p>
 
 </div>
 
